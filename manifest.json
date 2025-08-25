@@ -1,18 +1,1 @@
-{
-  "name": "My To-Do App",
-  "short_name": "To-Do",
-  "description": "A simple to-do list app made by me!",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#4CAF50",
-  "orientation": "portrait-primary",
-  "icons": [
-    {
-      "src": "icon.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
-}
-
+{}
